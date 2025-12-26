@@ -8,7 +8,7 @@ name = "PE-Task6-Rust"
 path = "src/main.rs"
 
 [lib]
-name = "PE_Task6_Rust"
+name = "temperature_converter"
 path = "src/lib.rs"
 
 [dependencies]
